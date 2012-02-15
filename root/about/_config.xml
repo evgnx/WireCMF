@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">О&nbsp;нас</title>
+	<title scope="title">О&nbsp;нас</title>
+	<title scope="path">О&nbsp;нас</title>
+	<meta name="keywords" content=""/>
+	<meta name="description" content=""/>
+	<node label="general" indx="1">Агентство</node>
+	<context>
+		<file label="main" name="about.inc"/>
+		<file label="side" name="about_side.inc"/>			
+	</context>
+</data>

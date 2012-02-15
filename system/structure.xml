@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<structure>
+	<item url="/">
+		<title scope="page">Main</title>
+		<title scope="title">Main</title>
+		<title scope="path">Home</title>
+		<meta name="keywords" content="…"/>
+		<meta name="description" content="…"/>
+		<navigation>
+			<block label="one" url_from="/" inherit="0"/>		
+		</navigation>
+		<context>
+			<file label="intr" name="intr.inc"/>
+		</context>
+		<!-- subsection-->
+		<item url="about">
+			<title scope="page">About Page</title>
+			<title scope="title">About Tilte</title>
+			<title scope="path">About Breadcrumb</title>
+			<meta name="keywords" content="…"/>
+			<meta name="description" content="…"/>
+			<node label="about">About</node>
+			<navigation>
+				<block label="one" url_from="/" inherit="1"/>							
+				<block label="about" url_from="/about" inherit="1"/>				
+			</navigation>
+			<context>
+				<file label="intr" name="intr.inc" inherit="1"/>
+				<file label="main" name="about_main.inc"/>
+				<file label="side" name="about_intr.inc"/>
+			</context>
+			
+		</item>
+	</item>
+</structure>
