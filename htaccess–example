@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteBase /  
+RewriteCond %{SCRIPT_FILENAME} !\.(js|css|jpg|gif|png|pdf|ico|dtd)$
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !robots.txt
+RewriteCond %{SCRIPT_FILENAME} !favicon.ico 
+RewriteRule ^ init.php [L]
+
