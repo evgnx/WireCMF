@@ -1,0 +1,121 @@
+
+/* CSS Document */
+#centeredmenu
+{
+	float:left;
+	width:100%;
+	background:#fff;
+	border-bottom:1px solid #555;
+	overflow:hidden;
+	position:relative;
+}
+
+#centeredmenu ul
+{
+	clear:left;
+	float:left;
+	list-style:none;
+	margin:0;
+	padding:0;
+	position:relative;
+	left:50%;
+	text-align:center;
+}
+
+#centeredmenu ul li
+{
+	display:block;
+	float:left;
+	list-style:none;
+	margin:0;
+	padding:0;
+	position:relative;
+	right:50%;
+	height:50px;
+	overflow:hidden;
+	white-space:nowrap;
+}
+
+#centeredmenu ul li a
+{
+	display:block;
+	margin:0 0 0 1px;
+	padding:10px 20px;
+	background:#555;
+	color:#ccc;
+	text-decoration:none;
+	height:50px;
+	white-space:nowrap;
+}
+
+#centeredmenu ul li a:hover
+{
+	background:#F00;
+	color:#fff;
+}
+
+#centeredmenu ul, #centeredmenu ul li, #centeredmenu ul a
+{
+	font-family:OldStandard, sans;
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:bold;
+	line-height:15px;
+}
+
+#centeredmenu ul li a.active, #centeredmenu ul li a.active:hover
+{
+	color:#fff;
+	background:#F00;
+}
+
+/* slider */
+#slidewrap
+{
+	width:960px;
+	margin:auto
+}
+
+#slidewrap .control
+{
+	width:80px;
+	height:50px;
+	background-color:#FF0000
+}
+
+#slidewrap .control-prev
+{
+	float:left;
+}
+
+#slidewrap .control-next
+{
+	float:right;
+}
+
+.control #go-prev, #go-next
+{
+	display:block;
+	text-indent:-2000px;
+	overflow:hidden;
+	width:80px;
+	height:50px;
+	cursor:pointer;
+	background:url(/tpl/_i/controls_arr.png) no-repeat;
+}
+
+.control #go-next
+{
+	background-position:0px -50px;
+}
+
+.control #go-prev
+{
+	background-position: 0px 0px;
+}
+
+#slider1, #slider1 li
+{
+	margin:0;
+	padding: 0
+}

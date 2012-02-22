@@ -1,0 +1,2 @@
+<p>COEC stands for &ldquo;Canadian Organic Export Corporation&rdquo;.<br/>
+We&nbsp;are an&nbsp;export-import corporation, supplier and marketer of&nbsp;Canadian technologies and products for customers all over the globe. COEC offers integrated services, from clients&rsquo; needs assessment and product procurements to&nbsp;&ldquo;door-to-door delivery&rdquo;.</p>

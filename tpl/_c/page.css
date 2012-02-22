@@ -1,0 +1,148 @@
+
+body
+{
+	color: #333;
+	height: auto;
+	padding-bottom: 20px;
+	background: url(/tpl/_i/page_ground.png) 50% top;
+}
+
+#overlay
+{	
+	background:url(/tpl/_i/page_ground.png) 50% top;
+	height:98px;
+	position:absolute;
+	width:100%;
+	margin:auto;
+	z-index:100000;
+	min-width:998px;
+}
+
+#overlay #off
+{
+	position:absolute;
+	left:0;
+	top:0;
+	width:20px;
+	height:20px;
+	background-color: none
+}
+
+.container
+{
+	background: url(/tpl/_i/page_ground.png) 50% top;
+	min-width:998px
+}
+
+.container_12
+{
+	background-color:#fff;
+	min-height:800px;
+	margin-bottom:200px;
+	-moz-box-shadow: 0px 0px 4px #000000;
+	-webkit-box-shadow: 0px 0px 4px #000000;
+	box-shadow: 0px 0px 4px #000000;
+}
+
+a
+{
+color: #F00 text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+h1
+{
+	text-indent:-20000px;
+}
+
+h2
+{
+	padding-top: 20px;
+	text-align: center;
+}
+
+p
+{
+	overflow: hidden;
+	padding: 10px 0;
+}
+
+#sampler
+{
+	background-image: url(/tpl/_c/12_col.gif);
+	background-color: #fff;
+	background-repeat: repeat-y;
+	margin-bottom: 20px;
+}
+
+/* first row with phone etc */
+.topwrap
+{
+	background:url(/tpl/_i/page_ground.png) 50% top;
+	padding:100px 10px 0 10px
+}
+
+.topwrap .row
+{
+	height:55px;
+	margin-left:-10px;
+	width:960px;
+	background:url(/tpl/_i/page_toprow.png) no-repeat 0 -45px;
+	margin-top:-5px;
+}
+
+.topwrap .col
+{
+	height:45px;
+	margin-top:5px;
+}
+
+.coec
+{
+	background:url(/tpl/_i/logo_coecca.png) no-repeat 50% top;
+	padding-top:0px;
+	height: 150px;
+	margin-bottom:0;
+}
+
+.row span.ww-switch, div.ww-switch
+{
+	font-family:OldStandard, sans;
+	text-transform:uppercase;
+	font-size:13px;
+	font-weight:bold;
+	line-height:20px;
+}
+
+.clocal
+{
+	padding:10px 0 15px 0;
+	color:#FFF;
+}
+
+.slocal
+{
+	padding:10px 0 15px 0;
+	color:#F00;
+}
+
+
+
+.phonebox
+{
+	background: url(/tpl/_i/flag.png) no-repeat -10px;
+	height:50px;
+}
+
+.phonebox div
+{
+	padding:15px 20px 15px 100px;
+	font-size:21px;
+	line-height:20px;
+	color:#fff;
+	font-family:OldStandard, sans;
+}

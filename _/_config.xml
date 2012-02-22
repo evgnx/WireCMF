@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">Canadian organic export corporation (COEC)</title>
+	<title scope="title">Canadian organic export corporation (COEC)</title>
+	<title scope="path">(COEC)</title>
+
+	<meta name="keywords" content=""/>
+	<meta name="description" content=""/>
+	<navigation>
+		<block label="main" url_from="/" inherit="1"/>
+	</navigation>
+	<context>
+		<file label="intro" locale="ru" name="intro_ru.php" inherit="1"/>
+		<file label="intro" locale="en" name="intro_en.php" inherit="1"/>
+		<file label="main"  locale="ru" name="main_about_ru.php"/>	
+		<file label="main"  locale="en" name="main_about_en.php"/>	
+		<file label="footr" locale="ru" name="footr_ru.php" inherit="1"/>	
+		<file label="footr" locale="en" name="footr_en.php" inherit="1"/>	
+		<file label="slidr" name="slider.php" inherit="1"/>	
+	
+	</context>
+</data>
