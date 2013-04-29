@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+
+	<title scope="title">АСТ — электоронный полис</title>
+	
+	<navigation>
+		<block label="insurance_nav" url_from="/" inherit="1"/>
+		<block label="insurance_nav" url_from="/insurance_estate" inherit="1"/>
+		<block label="insurance_nav" url_from="/insurance_car" inherit="1"/>
+		<block label="insurance_nav" url_from="/insurance_person" inherit="1"/>
+		<block label="insurance_estate_nav" url_from="/insurance_estate" inherit="1"/>
+		<block label="insurance_car_nav" url_from="/insurance_car" inherit="1"/>
+		<block label="insurance_person_nav" url_from="/insurance_person" inherit="1"/>
+		<block label="main_nav" url_from="/" inherit="1"/>
+	</navigation>
+	
+	
+	<context> 
+			<file label="com_header"  	  name="/_common/com_header.php" inherit="1"/>
+			<file label="com_header_scr"  name="/_common/com_header_scr.php" inherit="1"/>
+			<file label="com_footer"      name="/_common/com_footer.php" inherit="1"/>
+			<file label="com_footer_scr"  name="/_common/com_footer_scr.php" inherit="1"/>
+	</context>
+</data>

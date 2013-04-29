@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">Вопрос ответ</title>
+	<title scope="title">Вопрос ответ</title>
+	<title scope="path">Вопрос ответ</title>
+	<!-- // -->
+	<meta name="keywords" content="Вопрос ответ" inherit="1"/>
+	<meta name="description" content="Вопрос ответ" inherit="1"/>
+	<!-- // -->
+
+	<node label="main_nav" indx="2">Вопрос ответ</node>
+	<!-- // -->
+	
+	
+	<context>
+	
+		<file label="col_r_top"  name="ast/_help_col_r_top.php"/>
+		<file label="col_r_mid"  name="ast/_help_col_r_mid.php"/>
+		<file label="col_r_btm"  name="ast/_help_col_r_btm.php"/>
+		<file label="cmain_top"  name="ast/_help_cmain_top.php"/>
+		<file label="cmain_mid"  name="ast/_help_cmain_mid.php"/>
+		<file label="cmain_btm"  name="ast/_help_cmain_btm.php"/>
+		
+	
+	</context>
+</data>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">Обратная связь</title>
+	<title scope="title">Обратная связь</title>
+	<title scope="path">Обратная связь</title>
+	<!-- // -->
+	<meta name="keywords" content="Обратная связь" inherit="1"/>
+	<meta name="description" content="Обратная связь" inherit="1"/>
+	<!-- // -->
+
+	<node label="main_nav" indx="3">Обратная связь</node>
+	<!-- // -->
+	
+	
+	<context>
+	
+		
+		
+		<file label="col_r_top"  name="ast/_feedback_col_r_top.php"/>
+		<file label="col_r_mid"  name="ast/_feedback_col_r_mid.php"/>
+		<file label="col_r_btm"  name="ast/_feedback_col_r_btm.php"/>
+		<file label="cmain_top"  name="ast/_feedback_cmain_top.php"/>
+		<file label="cmain_mid"  name="ast/_feedback_cmain_mid.php"/>
+		<file label="cmain_btm"  name="ast/_feedback_cmain_btm.php"/>
+	
+	</context>
+</data>

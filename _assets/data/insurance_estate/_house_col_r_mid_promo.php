@@ -1,0 +1,1 @@
+_house_col_r_mid_promo

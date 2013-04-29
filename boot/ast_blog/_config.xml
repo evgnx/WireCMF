@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">Блог</title>
+	<title scope="title">Блог</title>
+	<title scope="path">Блог</title>
+	<!-- // -->
+	<meta name="keywords" content="Блог" inherit="1"/>
+	<meta name="description" content="Блог" inherit="1"/>
+	<!-- // -->
+
+	<node label="main_nav" indx="4">Блог</node>
+	<!-- // -->
+	
+	
+	<context>
+	
+		
+		<file label="col_r_top"  name="ast/_blog_col_r_top.php"/>
+		<file label="col_r_mid"  name="ast/_blog_col_r_mid.php"/>
+		<file label="col_r_btm"  name="ast/_blog_col_r_btm.php"/>
+		<file label="cmain_top"  name="ast/_blog_cmain_top.php"/>
+		<file label="cmain_mid"  name="ast/_blog_cmain_mid.php"/>
+		<file label="cmain_btm"  name="ast/_blog_cmain_btm.php"/>
+	
+	</context>
+</data>

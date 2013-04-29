@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="title">Страхование жизни</title>
+	<node label="insurance_person_nav" indx="1">Страхование жизни</node>
+	<node label="insurance_nav" indx="1">Страхование жизни</node>
+	<context></context>
+</data>

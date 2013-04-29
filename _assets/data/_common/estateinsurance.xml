@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estateinsurance>
+	<companies>
+		<company id="de528229-8673-42d9-94ba-21dca3024efd">
+			<name>Альянс</name>
+		</company>
+		<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6">
+			<name>ВТБ Страхование</name>
+		</company>
+		<company id="288020f7-545f-4617-adcf-0a1306b5f110">
+			<name>Россгосстрах</name>
+		</company>
+		<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+		<name>ВСК</name>
+		</company>
+	</companies>
+	<products>
+		<product id="ea27d76b-901a-4f90-bc0d-42430016f30d">
+			<name>Альянс 1</name>
+			<company id="de528229-8673-42d9-94ba-21dca3024efd"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">865</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">865</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">865</region>
+			</price>
+		</product>
+		<product id="2b566f20-b1a6-462f-ae74-a3f6e19b46a2">
+			<name>Альянс 2</name>
+			<company id="de528229-8673-42d9-94ba-21dca3024efd"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2630</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2630</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2630</region>
+			</price>
+		</product>
+		<product id="2e2893ca-7e5c-4ba8-b77a-c1030db982c0">
+			<name>Альянс 3</name>
+			<company id="de528229-8673-42d9-94ba-21dca3024efd"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">4340</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">4340</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">4340</region>
+			</price>
+		</product>
+		<product id="378a5748-5334-4c03-9fb2-e465b4c71ee9">
+			<name>Альянс 4</name>
+			<company id="de528229-8673-42d9-94ba-21dca3024efd"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">7050</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">7050</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">7050</region>
+			</price>
+		</product>
+		<product id="79095273-1aab-4d72-9772-62dd48498332">
+			<name>ВТБ 1</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">3500</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">3500</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">3500</region>
+			</price>
+		</product>
+		<product id="96ee2e79-5cf4-4933-b4d4-1e7873200448">
+			<name>ВТБ 2</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">6500</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">6500</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">6500</region>
+			</price>
+		</product>
+		<product id="18cd3ef9-e7f6-4f9a-a185-a2ba628efddf">
+			<name>ВТБ 3</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">9500</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">9500</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">9500</region>
+			</price>
+		</product>
+		<product id="06dd06e6-d083-4ec1-a75d-78392aaa66e6">
+			<name>Россгосстрах 1</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2450</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2450</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2450</region>
+			</price>
+		</product>
+		<product id="2628a269-fce2-4775-ba31-afa33a3d35b3">
+			<name>Россгосстрах 2</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">3940</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">3940</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">3940</region>
+			</price>
+		</product>
+		<product id="75d42bb6-8b73-4f7b-90af-54ff54bc5f77">
+			<name>Россгосстрах 3</name>
+			<company id="49365f7d-0968-41ce-ac1d-dedc01df9fd6"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">4930</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">4930</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">4930</region>
+			</price>
+		</product>
+		<product id="572962c9-7f4a-4aa9-81c2-9694b2926e15">
+			<name>ВСК1</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">12200</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">12200</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">12200</region>
+			</price>
+		</product>
+		<product id="7cdf3ca9-3f78-4138-abac-4bbdae0fc631">
+			<name>ВСК2</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">10560</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">10560</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">10560</region>
+			</price>
+		</product>
+		<product id="45f23e26-9f80-4afd-b98d-e515c51610a4">
+			<name>ВСК3</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">6490</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">6490</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">6490</region>
+			</price>
+		</product>
+		<product id="cfeb8623-33ce-4a7f-9e4b-0675bc2c3377">
+			<name>ВСК4</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">5900</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">5900</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">5900</region>
+			</price>
+		</product>
+		<product id="b4301fef-6db5-42ad-bd48-7a1ff596438b">
+			<name>ВСК5</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">5100</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">5100</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">5100</region>
+			</price>
+		</product>
+		<product id="79969ab7-80b2-45de-be6b-c6b9589068b1">
+			<name>ВСК6</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">4200</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">4200</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">4200</region>
+			</price>
+		</product>
+		<product id="c61f4f94-e5ad-495e-9cb1-29a7f38d45dd">
+			<name>ВСК7</name>
+			<company id="83e5e7a3-f852-4741-80bd-374279567add"/>
+			<price>
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2500</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2500</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2500</region>
+			</price>
+		</product>
+	</products>
+	<options>
+		<option>
+		<name>внутренняя отделка и инженерное оборудование</name>
+		<values>
+			<value id="ea27d76b-901a-4f90-bc0d-42430016f30d">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">70000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">70000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">70000</region>
+			</value>
+			<value id="2b566f20-b1a6-462f-ae74-a3f6e19b46a2">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">240000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">240000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">240000</region>
+			</value>
+			<value id="2e2893ca-7e5c-4ba8-b77a-c1030db982c0">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">400000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">400000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">400000</region>
+			</value>
+			<value id="378a5748-5334-4c03-9fb2-e465b4c71ee9">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">800000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">800000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">800000</region>
+			</value>
+			<value id="79095273-1aab-4d72-9772-62dd48498332">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">500000</region>
+			</value>
+			<value id="96ee2e79-5cf4-4933-b4d4-1e7873200448">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">1000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">1000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">1000000</region>
+			</value>
+			<value id="18cd3ef9-e7f6-4f9a-a185-a2ba628efddf">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2000000</region>
+			</value>
+			<value id="06dd06e6-d083-4ec1-a75d-78392aaa66e6">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="2628a269-fce2-4775-ba31-afa33a3d35b3">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="75d42bb6-8b73-4f7b-90af-54ff54bc5f77">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+			<value id="572962c9-7f4a-4aa9-81c2-9694b2926e15">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">4500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">4500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">4500000</region>
+			</value>
+			<value id="7cdf3ca9-3f78-4138-abac-4bbdae0fc631">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">3600000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">3600000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">3600000</region>
+			</value>
+			<value id="45f23e26-9f80-4afd-b98d-e515c51610a4">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">1800000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">1800000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">1800000</region>
+			</value>
+			<value id="cfeb8623-33ce-4a7f-9e4b-0675bc2c3377">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">900000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">900000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">900000</region>
+			</value>
+			<value id="b4301fef-6db5-42ad-bd48-7a1ff596438b">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">700000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">700000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">700000</region>
+			</value>
+			<value id="79969ab7-80b2-45de-be6b-c6b9589068b1">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">500000</region>
+			</value>
+			<value id="c61f4f94-e5ad-495e-9cb1-29a7f38d45dd">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+		</values>
+		</option>
+		<option>
+		<name>движимое (домашнее) имущество</name>
+		<values>
+			<value id="ea27d76b-901a-4f90-bc0d-42430016f30d">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">40000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">40000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">40000</region>
+			</value>
+			<value id="2b566f20-b1a6-462f-ae74-a3f6e19b46a2">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">120000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">120000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">120000</region>
+			</value>
+			<value id="2e2893ca-7e5c-4ba8-b77a-c1030db982c0">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="378a5748-5334-4c03-9fb2-e465b4c71ee9">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+			<value id="79095273-1aab-4d72-9772-62dd48498332">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="96ee2e79-5cf4-4933-b4d4-1e7873200448">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="18cd3ef9-e7f6-4f9a-a185-a2ba628efddf">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+			<value id="06dd06e6-d083-4ec1-a75d-78392aaa66e6">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="2628a269-fce2-4775-ba31-afa33a3d35b3">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="75d42bb6-8b73-4f7b-90af-54ff54bc5f77">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="572962c9-7f4a-4aa9-81c2-9694b2926e15">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2500000</region>
+			</value>
+			<value id="7cdf3ca9-3f78-4138-abac-4bbdae0fc631">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2000000</region>
+			</value>
+			<value id="45f23e26-9f80-4afd-b98d-e515c51610a4">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">1000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">1000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">1000000</region>
+			</value>
+			<value id="cfeb8623-33ce-4a7f-9e4b-0675bc2c3377">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">500000</region>
+			</value>
+			<value id="b4301fef-6db5-42ad-bd48-7a1ff596438b">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+			<value id="79969ab7-80b2-45de-be6b-c6b9589068b1">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="c61f4f94-e5ad-495e-9cb1-29a7f38d45dd">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+		</values>
+		</option>
+		<option>
+		<name>гражданская ответственность</name>
+		<values>
+			<value id="ea27d76b-901a-4f90-bc0d-42430016f30d">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">20000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">20000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">20000</region>
+			</value>
+			<value id="2b566f20-b1a6-462f-ae74-a3f6e19b46a2">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">50000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">50000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">50000</region>
+			</value>
+			<value id="2e2893ca-7e5c-4ba8-b77a-c1030db982c0">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">80000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">80000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">80000</region>
+			</value>
+			<value id="378a5748-5334-4c03-9fb2-e465b4c71ee9">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="79095273-1aab-4d72-9772-62dd48498332">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="96ee2e79-5cf4-4933-b4d4-1e7873200448">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">150000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">150000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">150000</region>
+			</value>
+			<value id="18cd3ef9-e7f6-4f9a-a185-a2ba628efddf">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="06dd06e6-d083-4ec1-a75d-78392aaa66e6">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">50000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">50000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">50000</region>
+			</value>
+			<value id="2628a269-fce2-4775-ba31-afa33a3d35b3">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">50000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">50000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">50000</region>
+			</value>
+			<value id="75d42bb6-8b73-4f7b-90af-54ff54bc5f77">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+			<value id="572962c9-7f4a-4aa9-81c2-9694b2926e15">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2500000</region>
+			</value>
+			<value id="7cdf3ca9-3f78-4138-abac-4bbdae0fc631">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">2000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">2000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">2000000</region>
+			</value>
+			<value id="45f23e26-9f80-4afd-b98d-e515c51610a4">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">1000000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">1000000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">1000000</region>
+			</value>
+			<value id="cfeb8623-33ce-4a7f-9e4b-0675bc2c3377">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">500000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">500000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">500000</region>
+			</value>
+			<value id="b4301fef-6db5-42ad-bd48-7a1ff596438b">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">300000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">300000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">300000</region>
+			</value>
+			<value id="79969ab7-80b2-45de-be6b-c6b9589068b1">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">200000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">200000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">200000</region>
+			</value>
+			<value id="c61f4f94-e5ad-495e-9cb1-29a7f38d45dd">
+				<region id="07f2f6aa-8837-4606-ae9e-66acc0678623">100000</region>
+				<region id="ef91d11c-a3d0-4eae-a0a1-f45b898bf998">100000</region>
+				<region id="543cf2a3-83fc-4fca-a164-2450788100bb">100000</region>
+			</value>
+		</values>
+		</option>
+	</options>
+</estateinsurance>

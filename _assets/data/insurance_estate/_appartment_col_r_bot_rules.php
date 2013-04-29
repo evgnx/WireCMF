@@ -1,0 +1,1 @@
+_appartment_col_r_bot_rules

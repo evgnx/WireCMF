@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+	<title scope="page">Автомобиль</title>
+	<title scope="title">Автомобиль</title>
+	<title scope="path">Автомобиль</title>
+	<!-- // -->
+	<meta name="keywords" content="страхование автомобиля" inherit="1"/>
+	<meta name="description" content="страхование автомобиля" inherit="1"/>
+	<!-- // -->
+	<node label="insurance_car_nav" indx="3">Автомобиль</node>
+	<node label="insurance_nav" indx="3">Автомобиль</node>
+	<!-- // -->
+	
+	<navigation>
+		<block label="insurance_estate_nav" url_from="/" inherit="1"/>
+		<block label="insurance_car_nav" url_from="/" inherit="1"/>
+		<block label="insurance_person_nav" url_from="/" inherit="1"/>
+		<block label="main_nav" url_from="/" inherit="1"/>
+	</navigation>
+	<context>
+	
+		
+		
+	
+	</context>
+</data>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+<title scope="page">Страхование ипотеки</title>
+<title scope="title">Страхование ипотеки</title>
+<title scope="path">Страхование ипотеки</title> 
+<!-- // -->
+<meta name="keywords" content="Страхование ипотеки" inherit="1"/>
+<meta name="description" content="Страхование ипотеки" inherit="1"/>
+<!-- // -->
+<node label="insurance_estate_nav" indx="3">Страхование ипотеки</node>
+<node label="insurance_nav" indx="3">Страхование ипотеки</node>
+<!-- // -->
+<context>
+	<file label="col_r_top"  name="insurance_estate/_mortgage_col_r_top_rules.php"/>
+	<file label="col_r_mid"  name="insurance_estate/_mortgage_col_r_mid_promo.php"/>
+	<file label="col_r_btm"  name="insurance_estate/_mortgage_col_r_btm_rules.php"/>
+	<file label="cmain_top"  name="insurance_estate/_mortgage_cmain_top.php"/>
+	<file label="cmain_mid"  name="insurance_estate/_mortgage_cmain_mid.php"/>
+	<file label="cmain_btm"  name="insurance_estate/_mortgage_cmain_btm.php"/>
+</context>
+</data>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xml [
+<!ENTITY nbsp  "&#160;">
+<!ENTITY mdash "&#8212;">
+<!ENTITY ndash "&#8211;">
+]>
+<data>
+
+	<title scope="title">*</title>
+	
+	<node label="insurance_car_nav" indx="3">страхование угона и ущерба</node>
+	<node label="insurance_nav" indx="3">страхование угона и ущерба</node>
+	<context>
+	</context>
+</data>
